@@ -8,7 +8,9 @@ import numpy as np
 import threading
 import os
 
-st.write("# GetFit")
+st.write(" ##### Code for Bharat Season - 2  ")
+st.write("###### ~Anurag Nayak")
+st.write("# GetFit - Yoga Pose Classifier")
 
 
 # Add option selector
